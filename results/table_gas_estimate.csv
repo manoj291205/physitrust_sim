@@ -1,0 +1,8 @@
+call,gas
+"registerNode (DID, SE key hash, bus, VC hash)",93848
+"openRound (seed commit, global hash)",33524
+commitMeasurement (window digest),45112
+revealSeed (32 B),30112
+"submitUpdate (EIP-712 payload, sig)",73812
+setKeyState (quarantine / revoke),28524
+anchorModel (CID hash),28524

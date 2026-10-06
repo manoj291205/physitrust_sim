@@ -1,0 +1,6 @@
+variant,F1_SF60,F1_ADPsybil48,F1_ADP30
+Full PhysiTrust-FL,0.867,0.889,0.876
+without PoP,0.867,0.649,0.876
+without provenance check,0.029,0.889,0.874
+without trust state,0.85,0.888,0.865
+weighted mean instead of median,0.877,0.881,0.842

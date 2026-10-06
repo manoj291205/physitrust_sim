@@ -1,0 +1,6 @@
+operation,ms
+SE P-256 sign (window digest),0.0845
+SE P-256 verify,0.0834
+EIP-712 secp256k1 sign,4.7743
+EIP-712 ecrecover (verify),6.8131
+Merkle root of 512 windows,0.4813
