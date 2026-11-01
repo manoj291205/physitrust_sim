@@ -79,11 +79,9 @@ physitrust_sim/
 ├── requirements.txt
 ├── LICENSE                  # all rights reserved (patent pending consideration)
 ├── results/                 # figures (PNG) and tables (CSV) from the full run
-├── docs/
-│   ├── PhysiTrust-FL_Course_Paper.pdf
-│   └── figures/             # architecture and feeder diagrams
-└── scripts/
-    └── push_to_github.sh    # one-time helper that pushed this repo
+└── docs/
+    ├── PhysiTrust-FL_Course_Paper.pdf
+    └── figures/             # architecture and feeder diagrams
 ```
 
 ## Installation
